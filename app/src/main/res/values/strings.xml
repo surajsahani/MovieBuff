@@ -1,3 +1,5 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">MovieBuff</string>
+    <string name="navigation_item_explore">Explore</string>
+    <string name="navigation_item_favorites">Favorites</string>
 </resources>
