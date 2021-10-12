@@ -1,4 +1,4 @@
-package com.martialcoder.moviebuff
+package com.martialcoder.moviebuff.ui
 
 import android.os.Bundle
 import android.widget.Toolbar
@@ -8,6 +8,7 @@ import androidx.drawerlayout.widget.DrawerLayout
 import butterknife.BindView
 import butterknife.ButterKnife
 import com.google.android.material.navigation.NavigationView
+import com.martialcoder.moviebuff.R
 
 class MainActivity : AppCompatActivity() {
 

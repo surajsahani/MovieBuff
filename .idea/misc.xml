@@ -5,7 +5,12 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main_content.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/layout/activity_movie_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/drawer_header.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/layout/fragment_movies_grid.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/grid_item_movie.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/list_item_movie_review.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/list_item_movie_video.xml" value="0.1" />
         <entry key="app/src/main/res/menu/drawer_items.xml" value="0.20729166666666668" />
       </map>
     </option>
