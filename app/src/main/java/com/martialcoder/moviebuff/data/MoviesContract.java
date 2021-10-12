@@ -1,4 +1,6 @@
 package com.martialcoder.moviebuff.data;
 
-public class MoviesContract {
+import android.provider.BaseColumns;
+
+public class MoviesContract implements BaseColumns {
 }
